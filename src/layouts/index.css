@@ -196,3 +196,7 @@ img {
   margin: 0 auto;
   height: auto !important;
 }
+
+.gatsby-resp-image-background-image {
+  padding: 0 !important;
+}
