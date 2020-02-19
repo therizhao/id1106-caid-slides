@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     name: `Wang Ri Zhao`,
-    title: `ID1106 CAD Assignment 1`,
+    title: `ID1106 CAID Assignment 1`,
     date: `19 Feb 2020`,
   },
   plugins: [
